@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn (add your link here)
+- LinkedIn 
 
 ---
 
