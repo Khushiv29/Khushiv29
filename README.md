@@ -2,7 +2,7 @@
 
 💻 Frontend Developer | React Learner  
 🚀 Building StudyHUB  
-📚 Learning DSA & Web Development  
+📚 Learning Python & Web Development  
 
 ---
 
@@ -26,7 +26,8 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn 
+- LinkedIn
+- Leetcode 
 
 ---
 
