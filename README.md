@@ -15,7 +15,8 @@
 ---
 
 ## 📌 Projects
-- 📚 StudyHUB – Study Planner Web App  
+- 📚 StudyHUB – Study Planner Web App
+- 📚 Smart-Placement-Preparation-Portal
   
 
 ---
